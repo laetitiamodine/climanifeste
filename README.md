@@ -178,6 +178,7 @@ Pour ajouter (ou enlever) votre nom à la liste des signataires, 2 solutions :
 * [Stéphanie Matharet](https://matharet.com/), directrice artistique, graphiste
 * [Claire Mercier](https://github.com/claire2327), développeuse
 * [Thibault Miranda de Oliveira](https://github.com/agaryen), développeur
+* [Laetitia Modine](https://mastodon.social/@laetitiamo), développeuse font-end, créatrice de contenu visuel
 * [Yannick Morel](http://latitudes.cc/), co-fondateur de Latitudes - Exploring Tech for Good
 * [Sylvain Mougenot](https://github.com/smougenot), IT crowd member
 * [Victor Mours](https://github.com/victormours), développeur
